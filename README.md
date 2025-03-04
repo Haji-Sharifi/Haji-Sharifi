@@ -16,10 +16,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Haji-Sharifi&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haji-Sharifi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Haji-Sharifi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
@@ -35,5 +31,11 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Haji-Sharifi&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
