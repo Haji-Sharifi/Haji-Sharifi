@@ -16,6 +16,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Haji-Sharifi&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haji-Sharifi&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=Haji-Sharifi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
