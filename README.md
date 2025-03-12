@@ -41,7 +41,9 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="C language"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+  <img src="https://skillicons.dev/icons?i=C#" height="40" alt="C #"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=oracle" height="40" alt="RDBMS"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
