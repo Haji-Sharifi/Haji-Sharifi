@@ -1,8 +1,9 @@
 # 💫 About Me:
 
-<div style="display: flex; align-items: center;">
+### Hey there! 👋
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
-    <h3>Hey there! 👋</h3>
     <ul>
       <li>🚀 <strong>Building:</strong> A modern Dental Clinic Website 🏥</li>
       <li>🔍 <strong>Need Help With:</strong> Backend & APIs (Node.js + Oracle)</li>
@@ -10,8 +11,10 @@
       <li>💡 <strong>Ask Me About:</strong> React, Tailwind CSS, Frontend Magic 🎨</li>
       <li>🐞 <strong>Fun Fact:</strong> Debugging > Coding 😆</li>
     </ul>
-    <img src="3dG.gif" alt="alt" style="max-width: 50%; height: auto;" />
-
+  </div>
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="3dG.gif" alt="alt" style="max-width: 300px; height: auto;" />
+  </div>
 </div>
 
 ## 🌐 Socials:
