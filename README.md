@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mustafa Sharifi</h1>
 <h3 align="center">Front-End Developer</h3>
-<img alt="coding" align="right" width="400" src="https://camo.githubusercontent.com/5119ee303e5e49cdf23def653b737bede0da49a859a34714d62d9ab518afbbb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+<img alt="coding" align="right" width="400" src="readme.gif">
 
 <p align="left"> <img src="" alt="" /> </p>
 
