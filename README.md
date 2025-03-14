@@ -1,6 +1,23 @@
 # 💫 About Me:
 
-### Hi there! 👋 <br><br>🔭 I’m currently working on a Dental Clinic Website <br>👯 I’m looking to collaborate on Web Development Projects <br>🤝 I’m looking for help with Backend Integration & APIs <br>🌱 I’m currently learning Node.js and Oracle Database <br>💬 Ask me about React, Tailwind CSS, and Frontend Development <br>⚡ Fun fact: I love debugging more than coding! 😆 <br><br>
+### Hi there! 👋
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <h3>Hey there! 👋</h3>
+    <ul>
+      <li>🚀 <strong>Building:</strong> A modern Dental Clinic Website 🏥</li>
+      <li>🤝 <strong>Open to:</strong> Web Dev Collabs (Frontend & Full-Stack)</li>
+      <li>🔍 <strong>Need Help With:</strong> Backend & APIs (Node.js + Oracle)</li>
+      <li>📚 <strong>Learning:</strong> Node.js & Oracle Database ⚡</li>
+      <li>💡 <strong>Ask Me About:</strong> React, Tailwind CSS, Frontend Magic 🎨</li>
+      <li>🐞 <strong>Fun Fact:</strong> Debugging > Coding 😆</li>
+    </ul>
+  </div>
+  <div style="flex: 1; display: flex; justify-content: center;">
+    <img src="3dG.gif" alt="alt" style="max-width: 100%; height: auto;" />
+  </div>
+</div>
 
 ## 🌐 Socials:
 
@@ -64,10 +81,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Haji-Sharifi&theme=rose&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Haji-Sharifi&theme=rose&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Haji-Sharifi&theme=rose&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Haji-Sharifi&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
 
