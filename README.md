@@ -10,11 +10,8 @@
       <li>💡 <strong>Ask Me About:</strong> React, Tailwind CSS, Frontend Magic 🎨</li>
       <li>🐞 <strong>Fun Fact:</strong> Debugging > Coding 😆</li>
     </ul>
+    <img src="3dG.gif" alt="alt" style="max-width: 50%; height: auto;" />
 
-  </div>
-  <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="3dG.gif" alt="alt" style="max-width: 100%; height: auto;" />
-  </div>
 </div>
 
 ## 🌐 Socials:
