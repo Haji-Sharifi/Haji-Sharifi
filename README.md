@@ -2,7 +2,8 @@
 
 ### Hey there! 👋
 
-🚀 **Building:** A modern Dental Clinic Website 🏥 <br> 🔍 **Need Help With:** Backend & APIs (Node.js + Oracle) <br> 📚 **Learning:** Node.js & Oracle Database ⚡ <br> 💡 **Ask Me About:** React, Tailwind CSS, Frontend Magic 🎨 <br> 🐞 **Fun Fact:** Debugging > Coding 😆 | <img src="3dG.gif" alt="alt" width="300"/>
+🚀 **Building:** A modern Dental Clinic Website 🏥 <br> 🔍 **Need Help With:** Backend & APIs (Node.js + Oracle) <br> 📚 **Learning:** Node.js & Oracle Database ⚡ <br> 💡 **Ask Me About:** React, Tailwind CSS, Frontend Magic 🎨 <br> 🐞 **Fun Fact:** Debugging > Coding 😆 <br/ >
+<img src="3dG.gif" alt="alt" width="200"/>
 
 ## 🌐 Socials:
 
