@@ -1,18 +1,16 @@
 # 💫 About Me:
 
-### Hi there! 👋
-
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 20px;">
     <h3>Hey there! 👋</h3>
     <ul>
       <li>🚀 <strong>Building:</strong> A modern Dental Clinic Website 🏥</li>
-      <li>🤝 <strong>Open to:</strong> Web Dev Collabs (Frontend & Full-Stack)</li>
       <li>🔍 <strong>Need Help With:</strong> Backend & APIs (Node.js + Oracle)</li>
       <li>📚 <strong>Learning:</strong> Node.js & Oracle Database ⚡</li>
       <li>💡 <strong>Ask Me About:</strong> React, Tailwind CSS, Frontend Magic 🎨</li>
       <li>🐞 <strong>Fun Fact:</strong> Debugging > Coding 😆</li>
     </ul>
+
   </div>
   <div style="flex: 1; display: flex; justify-content: center;">
     <img src="3dG.gif" alt="alt" style="max-width: 100%; height: auto;" />
@@ -21,7 +19,10 @@
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Mustafa.shairifi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mustafa-sharifi-9629332a2/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Mustafa9540) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafasharifi53@icloud.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/Mustafa.shairifi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mustafa-sharifi-9629332a2/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Mustafa9540)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafasharifi53@icloud.com)
 
 # 💻 Languages and Tools:
 
