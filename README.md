@@ -2,20 +2,9 @@
 
 ### Hey there! 👋
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    <ul>
-      <li>🚀 <strong>Building:</strong> A modern Dental Clinic Website 🏥</li>
-      <li>🔍 <strong>Need Help With:</strong> Backend & APIs (Node.js + Oracle)</li>
-      <li>📚 <strong>Learning:</strong> Node.js & Oracle Database ⚡</li>
-      <li>💡 <strong>Ask Me About:</strong> React, Tailwind CSS, Frontend Magic 🎨</li>
-      <li>🐞 <strong>Fun Fact:</strong> Debugging > Coding 😆</li>
-    </ul>
-  </div>
-  <div style="flex: 1; display: flex; justify-content: center;">
-    <img src="3dG.gif" alt="alt" style="max-width: 300px; height: auto;" />
-  </div>
-</div>
+| Description                                                                                                                                                                                                                                                                      | Image           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| 🚀 **Building:** A modern Dental Clinic Website 🏥 <br> 🔍 **Need Help With:** Backend & APIs (Node.js + Oracle) <br> 📚 **Learning:** Node.js & Oracle Database ⚡ <br> 💡 **Ask Me About:** React, Tailwind CSS, Frontend Magic 🎨 <br> 🐞 **Fun Fact:** Debugging > Coding 😆 | ![alt](3dG.gif) |
 
 ## 🌐 Socials:
 
